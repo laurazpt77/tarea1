@@ -2,7 +2,10 @@
 *  CURSO: LENGUAJES DE PROGRAMACIÓN - LPW72 GRUPO 1      *
 *  DOCENTE: JUAN CAMILO CORREA CHICA                     *
 *  INSTITUTO TECNOLÓGICO METROPOLITANO                   *
-*  FECHA MÁXIMA DE ENTREGA: MARZO 20/2019 - 11:59PM      */
+*  FECHA MÁXIMA DE ENTREGA: MARZO 20/2019 - 11:59PM      *
+* Laura Zapata Roldan*
+*Julian Andres Valencia*/
+
 
 #include<iostream>
 #include<string>
